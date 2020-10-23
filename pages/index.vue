@@ -59,4 +59,17 @@ export default {}
 .links {
   padding-top: 15px;
 }
+
+.page-enter-active,
+.page-leave-active {
+  transition-property: opacity;
+  transition-timing-function: ease-in;
+  transition-duration: 1100ms;
+}
+
+.page-enter,
+.page-leave-to {
+  opacity: 0;
+}
+
 </style>
