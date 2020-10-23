@@ -1,5 +1,5 @@
 # question9
 
-## Build Setup
+## About
 
 An app that explains the process I used to answer the question.
